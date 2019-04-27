@@ -1,0 +1,51 @@
+---
+title: "Developing Data Product Project 4"
+author: "Xiao Wang"
+date: "April 25.2019"
+theme: cerulean
+output: ioslides_presentation
+incremental: true
+---
+
+##Overview
+
+This is the final presentation for the Course Project
+
+The course is focused on Developing Data Products
+
+The main objective of the project is to write a Shiny application
+
+##Function of the Shiny Application
+
+>-The objective of the application was to conver kg to lb, or cm to inch.
+
+##Formula Used in the Application
+
+```{r}
+kg<-100
+
+cm<-50
+
+lb<-kg*2.20462
+
+inch<-cm*0.393701
+
+lb
+
+inch
+
+```
+
+##Source
+>-The source code is hosted in the following link
+https://github.com/xiaow910/Developing-Data-Product-Project-4/tree/master
+
+>-The application can be found in the following link
+https://xiao-wang-910.shinyapps.io/DevelopingDataProductFinalProject/
+
+
+
+
+
+
+
